@@ -1,5 +1,6 @@
 # Anubis
 Rewritten in Python version of minipwner
+Anubis(AKA minipwner2.0) is:
 
 This is taken in inspiration from https://github.com/nicholasadamou/minipwner which is a great tool. 
 Basically, take a small router like a netgear and turn it into a pwn machine. 
